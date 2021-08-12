@@ -9,7 +9,6 @@ import Footer from './components/Footer';
 
 function App() {
 
-  let port = process.env.PORT
 
   return (
     <Router>
